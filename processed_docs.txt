@@ -1,0 +1,5 @@
+Processed into 9 sentences
+Sample processed sentences:
+  1: artificial intelligence transforming way live work
+  2: machine learning algorithms process vast amounts data identify patterns make predictions
+  3: deep learning models particularly neural networks achieved remarkable success image recognition natural language processing speech recognition tasks

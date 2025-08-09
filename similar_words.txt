@@ -1,0 +1,3 @@
+=== Word2Vec Similar Words ===
+Words similar to 'artificial': [('world', 0.18102355301380157), ('way', 0.1643693745136261), ('analyze', 0.16423317790031433), ('recognition', 0.15942032635211945), ('field', 0.13758572936058044)]
+Words similar to 'learning': [('architectures', 0.2040635496377945), ('enables', 0.17841976881027222), ('predictions', 0.16353164613246918), ('training', 0.16226689517498016), ('applications', 0.1500772386789322)]
